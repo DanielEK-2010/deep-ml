@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 11 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-08 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-08 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-08 | [solution](problems/0007-matrix-transformation) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-13 | [solution](math/0018-descriptive-statistics) |
 
 ---
 
